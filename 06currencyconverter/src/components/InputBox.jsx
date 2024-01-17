@@ -1,5 +1,7 @@
 import React, {useId} from 'react'
 
+import PropTypes from 'prop-types';
+
 function InputBox({
     label,
     amount,
